@@ -1,0 +1,47 @@
+{
+  "name": "ice-dash",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-4-grid": "^3.1.1",
+    "detect-indent": "^6.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "graceful-fs": "^4.2.2",
+    "is-plain-obj": "^2.0.0",
+    "mkdirp": "^0.5.1",
+    "plotly.js": "^1.50.1",
+    "react": "^16.10.2",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.10.2",
+    "react-icons": "^3.7.0",
+    "react-plotlyjs": "^0.4.4",
+    "react-scripts": "3.2.0",
+    "sort-keys": "^4.0.0",
+    "typescript": "^3.6.4",
+    "write-file-atomic": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

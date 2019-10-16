@@ -1,0 +1,161 @@
+
+.heading {
+  /* color:rgb(63, 81, 181); */
+  font-weight: bold;
+  /* font-family: "peach_sundress_regular"; */
+  font-family: "Satisfy", cursive;
+  /* color:#F498B8; */
+  color: #F498B8;
+  font-size: 50pt;
+}
+
+h2 {
+  color: #008375;
+  text-align: center;
+  margin: 10px;
+  font-family: "Exo", sans-serif;
+}
+
+h4 {
+  color:#FFFFFF;
+  text-align: center;
+  padding-top: 5px;
+  font-family: "Exo", sans-serif;
+}
+
+.subtitles {
+  font-size: 14pt;
+  font-family: "Exo", sans-serif;
+  font-weight: bold;
+  color: #F498B8;
+}
+.subtitlesTwo {
+  font-size: 14pt;
+  font-family: "Exo", sans-serif;
+  color: #8E1537;
+  margin-left: 24px;
+  background-color: #FFFFFF;
+}
+.container .row div .choicesDiv {
+  background-color: #FFFFFF;
+}
+
+.accentText {
+  font-size: 20pt;
+  font-family: "Satisfy", cursive;
+  display: 'flex';
+  text-align: center;
+  color: #8E1537;
+  margin: 5px;
+
+  /* color: #008375; */
+}
+
+div.modebar{
+  background-color: #FFFFFF;
+}
+
+.bottomRowTitle {
+  background-color: #FFFFFF;
+  color: #8E1537;
+  text-align: center;
+  margin: 10px;
+  font-family: "Exo", sans-serif;
+}
+
+.buttons-right>button {
+  float: right;
+  margin: 5px;
+}
+.app-container {
+  padding: 25px;
+}
+
+.percentage-number {
+  color: rgb(63, 81, 181);
+  font-size: 50px;
+  font-weight: bold;
+}
+.percentage-sign {
+  color: rgb(63, 81, 181);
+  font-size: 40px;
+}
+.percentage-container {
+  text-align: center;
+}
+.percentage-container:first-child {
+  padding-bottom: 3em;
+}
+
+/* bootstrap css */
+.container .row div {
+  /* outline: solid 1px #FFFFFF; */
+  background-color: #F5D9DF;
+}
+
+
+/* .bootstrap-wrapper {
+  background-color: #8E1537;
+} */
+
+/* Submit form CSS =========================================================== */
+.dropdown-toggle.btn-primary {
+  background-color: #8E1537;
+  border-color: #8E1537;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #F498B8;
+    border-color: #F498B8;
+}
+.btn-primary:active{
+    background:#F498B8;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #F498B8;
+    border-color: #F498B8;
+}
+
+:not(:disabled):not(.disabled).btn-primary.active, :not(:disabled):not(.disabled).btn-primary:active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #F498B8;
+    border-color: #F498B8;
+}
+
+:not(:disabled):not(.disabled).btn-primary.active, :not(:disabled):not(.disabled).btn-primary:active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #F498B8;
+    border-color: #F498B8;
+}
+
+.card-body .card-subtitle .card {
+  background-color: #FFFFFF;
+  border-radius: 25;
+  background:"white";
+  border-radius: 25;
+  padding: "10px";
+  margin: "15px";
+  outline: 0;
+}
+
+.row .col div {
+    /* outline:  1px #F498B8; */
+    border-radius: 25;
+    background-color: #FFFFFF;
+}
+
+.mainCards {
+  background:"white";
+  border-radius: 25;
+  padding: "10px";
+  margin: "15px";
+  outline: 0;
+}
+
+.buttonCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
